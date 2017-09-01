@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaShopRouter.iml" filepath="$PROJECT_DIR$/JavaShopRouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aspecttool/aspecttool.iml" filepath="$PROJECT_DIR$/aspecttool/aspecttool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrouter-annotation/jrouter-annotation.iml" filepath="$PROJECT_DIR$/jrouter-annotation/jrouter-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrouter-compiler/jrouter-compiler.iml" filepath="$PROJECT_DIR$/jrouter-compiler/jrouter-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrouter-logic/jrouter-logic.iml" filepath="$PROJECT_DIR$/jrouter-logic/jrouter-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmodule/testmodule.iml" filepath="$PROJECT_DIR$/testmodule/testmodule.iml" />
+    </modules>
+  </component>
+</project>

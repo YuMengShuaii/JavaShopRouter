@@ -1,0 +1,1 @@
+include ':app', ':jrouter-compiler', ':jrouter-logic', ':testmodule', ':aspecttool', ':jrouter-annotation'
